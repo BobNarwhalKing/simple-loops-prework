@@ -36,7 +36,7 @@ end
 end
 
 def for_iterator(number_of_times)
-  counter=1..number_of_times
+  counter=1..7
    for item in counter do
      puts phrase
    end
