@@ -40,5 +40,4 @@ def for_iterator(number_of_times)
   for counter in 0..7 do
      puts phrase
    end
-  end
 end
